@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**RubikRr/RubikRr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Всем салам ** это ✨ _special_ ✨ место моего творчества.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Некоторые правила моего чата:
+
+- 🔭 I’m currently working on май эсс 
+- 🌱 I’m currently learning жаваскрепт
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ма брокен арт
+- 💬 Ask me about рулес
+- 📫 How to reach me: сагу
+- 😄 Pronouns: сиииии
+- ⚡ Fun fact: люблю динозавров
+

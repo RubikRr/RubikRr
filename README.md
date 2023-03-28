@@ -12,7 +12,7 @@ https://docs.google.com/document/d/13llsNIvrRohYD-uAWv62pIBw-bR-I61M/edit?usp=sh
 Немного статистики  
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubikRr)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubikRr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubikRr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 Крутая фотка корга  
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
 ![изображение](https://user-images.githubusercontent.com/65467062/186758094-704993a1-3f07-4464-b51c-85d3dc009b22.png)  

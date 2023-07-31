@@ -8,7 +8,7 @@
 vova.chakalov.2003@gmail.com.   
 Резюме(пробное)  
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓     
-https://docs.google.com/document/d/13llsNIvrRohYD-uAWv62pIBw-bR-I61M/edit?usp=share_link&ouid=105953471327093068790&rtpof=true&sd=true     
+[https://docs.google.com/document/d/13llsNIvrRohYD-uAWv62pIBw-bR-I61M/edit?usp=share_link&ouid=105953471327093068790&rtpof=true&sd=true     ](https://docs.google.com/document/d/16b2yNjzvg92miuORLIkA7smVnE7R4hMwCFMZq-WNN4I/edit?usp=sharing)
 Немного статистики  
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubikRr)](https://github.com/anuraghazra/github-readme-stats)
